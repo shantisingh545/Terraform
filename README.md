@@ -1,3 +1,5 @@
+while creating the vpc dont forget to attach the pblic ipv4 for each subnets
+
 docker build -t eks-nginx .
 ||
 
